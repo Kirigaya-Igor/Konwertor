@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Konwertor/static/css/main.be3d1573.css",
-    "main.js": "/Konwertor/static/js/main.9c1ab79c.js",
+    "main.js": "/Konwertor/static/js/main.47449957.js",
     "index.html": "/Konwertor/index.html",
     "main.be3d1573.css.map": "/Konwertor/static/css/main.be3d1573.css.map",
-    "main.9c1ab79c.js.map": "/Konwertor/static/js/main.9c1ab79c.js.map"
+    "main.47449957.js.map": "/Konwertor/static/js/main.47449957.js.map"
   },
   "entrypoints": [
     "static/css/main.be3d1573.css",
-    "static/js/main.9c1ab79c.js"
+    "static/js/main.47449957.js"
   ]
 }
