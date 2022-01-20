@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Konwertor/static/css/main.be3d1573.css",
+    "main.js": "/Konwertor/static/js/main.9c1ab79c.js",
+    "index.html": "/Konwertor/index.html",
+    "main.be3d1573.css.map": "/Konwertor/static/css/main.be3d1573.css.map",
+    "main.9c1ab79c.js.map": "/Konwertor/static/js/main.9c1ab79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be3d1573.css",
+    "static/js/main.9c1ab79c.js"
+  ]
+}
