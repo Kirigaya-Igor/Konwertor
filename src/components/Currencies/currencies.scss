@@ -1,0 +1,37 @@
+.currencies {
+    background-color: #191919;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 150px;
+
+    .currencyInputBlock {
+        border: 1px solid rgba(255, 255, 255, 0.8);
+        border-radius: 20px;
+        min-height: 80px;
+        width: 95%;
+        max-width: 1300px;
+        margin: 15px 0px;
+        padding: 15px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 20px;
+
+
+        .currencyInput {
+            width: 70%;
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            background-color: #191919;
+            border-radius: 30px;
+            min-height: 50px;
+            padding: 15px;
+            color: white;
+
+            &::placeholder {
+                color: rgba(255, 255, 255, 0.8);
+            }
+        }
+    }
+}
